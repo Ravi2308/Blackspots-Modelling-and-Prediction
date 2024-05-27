@@ -1,5 +1,5 @@
 # Blackspots-Modelling-and-Prediction
-This work is submitted to IEEE Big Data 2023
+This work is accepted at 35th IEEE Intelligent Vehicle 2024.
 
 # Requirements
   1. Sklearn
